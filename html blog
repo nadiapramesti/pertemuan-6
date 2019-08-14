@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="
+    <link href="https://fonts.googleapis.com/css?family=Lato:100,300,300i,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="vendors/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="vendors/grid.css"/>
+    <link rel="stylesheet" type="text/css" href="resource/css/styles.css" />
+   
+</head>
+<body>
+    <header>
+        <div>
+            <h1>Goodbye junk food. Hello super healthy meals.</h1>
+            <a href="#"> I’m hungry </a>
+            <a href="#">Show me more</a>
+        </div>
+    </header>
+</body>
+</html>
